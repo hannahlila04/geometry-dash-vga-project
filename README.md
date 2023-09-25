@@ -9,4 +9,7 @@
 
 **Input and Output Interfacing:** There were several inputs and outputs used in this game. The primary input was the PS/2 keyboard, which was used to quit the game at any point (by pressing the letter Q), and to make the obstacle jump (by pressing the spacebar). A polling procedure was used to check the input values. The HEX display was used to output the player's score and display the words 'GAME OVER' when the player crashed into an obstacle. The buttons on the display were used to select the difficulty of gameplay.
 
-We were able to successfully demo this project on the DE1-SoC
+We were able to successfully demo this project on the DE1-SoC:
+
+https://github.com/hannahlila04/geometry-dash-vga-project/assets/68185417/72c7c7c9-c8f3-4165-bbb3-3ff59563decb
+
