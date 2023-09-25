@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hannahlila04/Documents/GitHub/geometry-dash-vga-project",
+      "program": "/Users/hannahlila04/Documents/GitHub/geometry-dash-vga-project/build/Debug/outDebug"
+    }
+  ]
+}
