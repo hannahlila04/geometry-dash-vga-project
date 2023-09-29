@@ -1,5 +1,5 @@
 # Geometry Dash VGA Project
- In this project we coded a multi-level game inspired by Geometry Dash in C. This game is intended to operate on the DE1-SoC FPGA with the ARM A9 Processor. 
+ In this project, we coded a multi-level game inspired by Geometry Dash in C. This game is intended to operate on the DE1-SoC FPGA with the ARM A9 Processor. 
 
  This project can be deconstructed into three main parts:
 
